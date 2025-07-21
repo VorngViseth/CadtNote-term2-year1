@@ -1,0 +1,28 @@
+1. Given address 192.168.1.168 with subnet mask 255.255.255.128
+   A. Find the network address
+   B. Find the first and last usable address
+   C. Find the broadcast address
+
+2. You are a network administrator for an enterprise that needs to create at least 30 subnets. The company has chosen the private address 172.18.0.0/16 as its internal network address. Your task is to design the subnets and provide detailed information for each one.
+   A. How many subnets can be created?
+   B. For each subnet, provide the following details:
+	Network address
+	Host address range
+	Broadcast address
+	Subnet mask
+
+3. You are a network administrator for an enterprise company that has six departments. Each department has specific requirements for the number of host devices they need to accommodate. Your task is to use Variable Length Subnet Masking (VLSM) to allocate subnets within the provided private IP address range to meet the needs of each department. The provided IP address range is 172.21.0.0/16.
+Department Requirements:
+Sales: 500 host devices
+Management: 50 host devices
+HR: 28 host devices
+Admin & Finance: 36 host devices
+Marketing: 300 host devices
+IT: 10 host devices
+   A. Calculate the subnet sizes
+   B. Allocate the subnets for each department
+   C. Document the IP address range 
+
+4. You are managing an ISP network using the IP address range 172.22.0.0/16. Your task is to create smaller subnets that can each support a minimum of 1580 host addresses.
+   A. How many subnets can you create from the given network with at least 1580 host addresses each?
+   B. Determine the 1536th IPv4 address within the 18th subnet.
