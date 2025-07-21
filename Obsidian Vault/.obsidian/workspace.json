@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "b9fa50d9d8b6d00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b6a32c916b8ee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5541a890e5774dc8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "513a5291055dff46",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e91c790fa25bf9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "307261a355871545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11f6e5a08ee56bfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7f20ad1aa87516d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f53faf4803ec58eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5041847229004
+  },
+  "right": {
+    "id": "06b9305abd78d6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "48c0bdee807e154d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb4737730de06170",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-05-13groupExercises.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-05-13groupExercises"
+            }
+          },
+          {
+            "id": "b6bb5159df090eb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "statistic/MEMORY AID1-Descriptive Statistics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MEMORY AID1-Descriptive Statistics"
+            }
+          },
+          {
+            "id": "e2dd1eadd88603d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6febe41d335d041e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/mathfinalans.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of mathfinalans"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "513a5291055dff46",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-20 14.56.07.excalidraw.md",
+    "statistic/StateFinalAns.md",
+    "statistic/FinalStat.jpg",
+    "statistic/StateFinalAns (Copy).zip",
+    "statistic/StateFinalAns (Copy).md",
+    "Excalidraw/mathfinalans1.md",
+    "Excalidraw/mathfinalAns2.md",
+    "discrete math/math2.jpg",
+    "discrete math/math2.1.jpg",
+    "discrete math/mathfinal.jpg",
+    "discrete math/photo_3_2025-07-01_18-33-58.jpg",
+    "discrete math/photo_2_2025-07-01_18-33-58.jpg",
+    "discrete math/photo_1_2025-07-01_18-33-58.jpg",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2025-06-04 13.05.04.excalidraw.md",
+    "Excalidraw/mathfinalans.md",
+    "discrete math/midterm/midterm1.md",
+    "2025-06-20.md",
+    "discrete math/2025-05-28TA.md",
+    "discrete math/proof/exercises proof.md",
+    "discrete math/proof/2025-05-11 Direct proof.md",
+    "discrete math/2025-05-21.md",
+    "Excalidraw/Drawing 2025-06-29 12.55.55.excalidraw.md",
+    "2025-06-19.md",
+    "Excalidraw/Drawing 2025-06-04 14.06.55.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-04 13.05.04_0.excalidraw.md",
+    "discrete math/midterm/midterm2.md",
+    "2025-05-28.md",
+    "Untitled.md",
+    "gorupPresentation/number system.md",
+    "discrete math/week3/exercises in lms week 3.md",
+    "discrete math/week3/2025-05-13groupExercises.md",
+    "Excalidraw",
+    "CCNA/2025-05-10.pdf",
+    "CCNA/2025-05-10.md",
+    "gorupPresentation",
+    "discrete math/midterm",
+    "Pasted image 20250528151918.png",
+    "2025-05-21 Stat ch3 week3.md",
+    "pic/Pasted image 20250528142344.png",
+    "pic/Stat ch3 week3.pdf",
+    "pic/Screenshot from 2025-05-21 13-26-51.png",
+    "Stat ch3 week3 1.pdf",
+    "discrete math/Unconfirmed 97928.crdownload",
+    "pic",
+    "statistic/New folder"
+  ]
+}
